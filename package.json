@@ -1,0 +1,25 @@
+{
+    "name": "service",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "mongoose": "^4.13.4",
+        "restify": "^6.3.4",
+        "typescript": "^2.6.1"
+    },
+    "devDependencies": {
+        "@types/async": "^2.0.45",
+        "@types/mongoose": "^4.7.28",
+        "@types/node": "^8.0.53",
+        "@types/restify": "^5.0.6",
+        "gulp": "^3.9.1",
+        "gulp-typescript": "^3.2.3",
+        "typings": "^2.1.1"
+    }
+}
